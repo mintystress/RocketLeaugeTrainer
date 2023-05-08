@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+button {
+  background-color: rebeccapurple;
+}
+
+h1 {
+  font-size: xx-large ;
+}
